@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+background-color: greenyellow;
+}
+
+body{
+    background: url(https://vgtimes.ru/uploads/gallery/main/156773/dco886c-ac30e66f-08e2-41c9-be72.jpg);
+}
+
+p{
+    background-color: lightcoral;
+}
+
+
+.link-text{
+    background-color: lightseagreen;
+}
+
+.link-text1{
+    background-color: lightseagreen;
+}
